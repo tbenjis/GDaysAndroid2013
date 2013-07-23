@@ -18,7 +18,7 @@
 																				
 #About
 
-This is a presentation on Android design for UI Developers. The file contains the resources and presentation of the topic.
+This is a presentation on Android Design for UI Developers. The file contains the resources, demo and presentation files for the topic.
 Event: GDays Nigeria 2013
 
 #1. Android Design inspiration
