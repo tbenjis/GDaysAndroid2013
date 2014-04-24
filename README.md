@@ -49,7 +49,7 @@ http://developer.android.com/design/downloads/index.html - Android Design Stenci
 http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html - Icon gens, ActionBar styles, Holo Colors
 
 #5. StackArena apps
-http://apps.stackarena.com
+http://stackarena.com/portfolio/
 
 #6. Presentation Tool
 Prezi Desktop: https://prezi.com/desktop/ Download this app to view the presentation and reuse the presentation file
