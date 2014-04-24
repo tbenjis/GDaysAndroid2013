@@ -51,7 +51,10 @@ http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html - Icon ge
 #5. StackArena apps
 http://stackarena.com/portfolio/
 
-#6. Presentation Tool
+#6. StackArena tutorials
+http://tuts.stackarena.com/
+
+#7. Presentation Tool
 Prezi Desktop: https://prezi.com/desktop/ Download this app to view the presentation and reuse the presentation file
 
 
